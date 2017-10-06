@@ -1,6 +1,6 @@
 //using var will add the variable to the window object as a global variable
 var STEVE = {
-    users: ['prof3ssorSt3v3', ''],
+    users: ['prof3ssorSt3v3', 'abcd0001'],
     init: function(){
         //check for querystring and load the single script OR load all scripts using users array
         let qs = location.search;

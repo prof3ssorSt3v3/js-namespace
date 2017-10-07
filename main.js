@@ -25,7 +25,7 @@ var STEVE = {
 'liu00420','mcca0614',
 'nola0123','rafi0005',
 'reev0036','roy00427',
-'sant0178','shir0058,'
+'sant0178','shir0058',
 'sing0961','son00020','stam0123'],
     init: function(){
         //check for querystring and load the single script OR load all scripts using users array
